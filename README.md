@@ -8,7 +8,16 @@ three input features; total power balance, energy price elasticity, and response
 
 
 Steps of the Big data analytics 
+
+
+
+
+
+
 ![image](https://github.com/Omarelfarouk90/Big-data-analytics/assets/53394104/05d090cb-2ef1-43c3-9ebb-8f1017cc9ffb)
+
+
+
 
 
 Link to the paper 
