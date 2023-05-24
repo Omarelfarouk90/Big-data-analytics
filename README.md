@@ -41,10 +41,10 @@ Output of the machine learning model:
 
 ### Model fitting and analyzing the prediction accuracy:
 Four machine learning models have been provided, the first model is related to the classification model, where the aim was to identify if the smart grid system will be considered stable or not, three machine learning models were provided using a decision tree and random forest classifier and conventional neural network (Deep learning). The fourth machine learning model was using a penalized linear regression for the prediction of the stability differential root equation.
-# Decision tree algorithm:
+#### Decision tree algorithm:
 The decision tree is the usage of nodes and branches to learn the model and identify the fitness accuracy, the difference between the decision tree and the random forest is the complexity of nodes and branching.
 
-# Random forest algorithm:
+#### Random forest algorithm:
 Random forest algorithm is composed of different decision trees using the same node, the optimal solution is provided through the merging of various decision trees as illustrated in figure 3
 
 
