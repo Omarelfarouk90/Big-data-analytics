@@ -28,7 +28,7 @@ Figure 2: Steps of predicting the smart grid stability for large data analytics
 
 
 
-Choosing the feature input and output for the machine learning model:
+### Choosing the feature input and output for the machine learning model:
 To identify the stability of the smart grid system, the list of inputs was identified as predictive features, they contain the following dataset 
 Input features:
 1.	'tau1' to 'tau4': the reaction time of each network participant, a real value within the range 0.5 to 10 ('tau1' corresponds to the supplier node, 'tau2' to 'tau4' to the consumer nodes);
@@ -39,12 +39,12 @@ Output of the machine learning model:
 5.	'stabf': a categorical (binary) label ('stable' or 'unstable').
 
 
-Model fitting and analyzing the prediction accuracy:
+### Model fitting and analyzing the prediction accuracy:
 Four machine learning models have been provided, the first model is related to the classification model, where the aim was to identify if the smart grid system will be considered stable or not, three machine learning models were provided using a decision tree and random forest classifier and conventional neural network (Deep learning). The fourth machine learning model was using a penalized linear regression for the prediction of the stability differential root equation.
-Decision tree algorithm:
+# Decision tree algorithm:
 The decision tree is the usage of nodes and branches to learn the model and identify the fitness accuracy, the difference between the decision tree and the random forest is the complexity of nodes and branching.
 
-Random forest algorithm:
+# Random forest algorithm:
 Random forest algorithm is composed of different decision trees using the same node, the optimal solution is provided through the merging of various decision trees as illustrated in figure 3
 
 
